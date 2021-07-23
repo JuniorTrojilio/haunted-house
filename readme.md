@@ -1,4 +1,4 @@
-# Three.js Journey
+# Learn Three.js
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
